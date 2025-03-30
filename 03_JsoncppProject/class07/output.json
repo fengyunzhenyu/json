@@ -1,0 +1,13 @@
+{
+	"age" : 30,
+	"array" : 
+	[
+		1,
+		2,
+		3,
+		4,
+		5
+	],
+	"city" : "New York",
+	"name" : "John"
+}

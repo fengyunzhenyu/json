@@ -1,0 +1,9 @@
+{
+    "city": "Los Angeles",
+    "name": "Alice",
+    "skills": [
+        "C++",
+        "Json",
+        "Python"
+    ]
+}
